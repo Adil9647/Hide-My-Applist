@@ -24,5 +24,5 @@ This module can work as an Xposed module to hide apps or reject app list request
 ## Translation Contributing
 You can contribute translation [here](https://crowdin.com/project/hide-my-applist).
 
-## Update Log
+## Update Log.
 [Reference to the release page](https://github.com/Dr-TSNG/Hide-My-Applist/releases)  
